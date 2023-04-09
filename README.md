@@ -27,3 +27,16 @@ Principle Component Analysis (PCA): A technique for reducing the dimensionality 
 Random Forest: An ensemble learning technique that trains multiple decision trees on random subsets of the data and features, and combines their predictions.
 
 Support Vector Machine: A classification algorithm that finds the hyperplane that maximally separates the data into different classes, or that maximizes the margin between the classes.
+
+
+## Thoughs about learning the concept of Mechine-Learning
+
+In learning process of Mechine-Learning, I first learn the core concept of the theory and I do exercise how does this theory apply to the model.
+
+I was very surprised that I can use various kind of theory to analyze the data, and make model using many kinds of theory.
+
+For example, when I want to predict what kind of flower is the given picture is, I can use Support Vector Mechine, and Random Forest, and K-Means Clustering.
+
+But I found it interesting because even though I can make models using various kinds of theory, the Prediction Accuracy varies from data to data.
+
+In order to increase the prediction accuracy, I learned that I have to tune parameter and hyperparameter of the each algorithm.
